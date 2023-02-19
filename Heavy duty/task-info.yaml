@@ -312,5 +312,8 @@ files:
     \    }\n}\n"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6093#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 17 Feb 2023 16:52:14 UTC"
+record: 4
